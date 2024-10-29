@@ -44,4 +44,4 @@ Aplikasi ini menawarkan beberapa fitur utama:
 4. Jalankan PenghitungUmurFrame untuk memulai aplikasi.
 
 # Demo
-![Demo GIF](img/Gif%20Running.gif) 
+![App Screenshot](img/uj.png) 
